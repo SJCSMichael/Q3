@@ -1,0 +1,18 @@
+h1 {
+	color:red;
+	border:solid;
+	border-color: white;
+	border-bottom-color: black;
+	
+
+
+}
+h2 {
+	color:blue;
+}
+img {
+	width:300px;
+}
+ol {
+	list-style:none;
+}

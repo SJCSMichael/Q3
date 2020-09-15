@@ -1,0 +1,15 @@
+h1	{
+	color:blue;
+	border-bottom:solid;
+	border-color:darkblue;
+}
+h2 {
+	color:darkgreen;
+}
+img {
+	width:300px;
+	border:solid orange 5px;
+}
+body {
+	background-color:lightcyan;
+}
