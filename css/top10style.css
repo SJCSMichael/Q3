@@ -1,8 +1,22 @@
-img { width:300px;
+img {
+ 	width:300px;
 	border:5px;
-border-style: solid;
-border-color: orange;
+	border-style: solid;
+	border-color: orange;
 }
-li { color: blue; }
-p {font: serif;
-	font-size:17px;}
+li {
+ 	color: blue; 
+}
+p {
+	font: serif;
+	font-size:17px;
+}
+article {
+	border:solid black 3px;
+	margin: 15px;
+	background-color: lightblue
+}
+div {
+	background-color:  lightgray;
+	border:solid black 3px;
+}
